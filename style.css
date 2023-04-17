@@ -23,9 +23,10 @@ header {
 }
 
 .first {
+    display: flex;
     width: 90%;
-    padding-left: 1.5em;
-    padding-right: 1.5em;
+    align-items: center;
+    justify-content: center;
 
 }
 h1 {
