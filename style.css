@@ -46,10 +46,12 @@ a {
 
 .about {
     display: flex;
+
 }
 
 .text {
-    flex: 1
+    flex: 1;
+    flex-direction: row;
 }
 
 .image {
