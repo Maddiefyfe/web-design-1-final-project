@@ -10,3 +10,24 @@ body {
     margin:0;
     padding: 1;
 }
+
+html {
+    box-sizing: border-box;
+  }
+  *, *::before, *::after {
+    boxing-sizing: border-box;
+  }
+
+header {
+    background-color: #0E1215;
+}
+
+.first {
+    width: 90%;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+
+}
+h1 {
+    color: #fafafa
+}
