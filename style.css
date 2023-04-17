@@ -46,7 +46,12 @@ a {
 
 .about {
     display: flex;
-    flex-direction: column;
-    text-align: left;
-    justify-content: center;
+}
+
+.text {
+    flex: 1
+}
+
+.image {
+    flex: 2;
 }
