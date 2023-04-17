@@ -22,12 +22,9 @@ header {
 }
 
 .first {
-    width: 90%;
+    background-color: #0E1215;
     text-align: center;
-    padding-left: 4em;
-    padding-right: 4em;
-    padding-top: 0;
-    padding-bottom: 0;
+
 }
 
 h1 {
@@ -39,7 +36,7 @@ ul {
     flex-direction: row;
     align-items: flex-end;
     align-content: space-between;
-    justify-content: flex-end;
+    justify-content: space-around;
     list-style: none;
 }
 
