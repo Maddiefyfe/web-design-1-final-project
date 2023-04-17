@@ -39,6 +39,8 @@ ul {
     flex-direction: row;
     align-items: flex-end;
     align-content: space-between;
+    justify-content: flex-end;
+    list-style: none;
 }
 
 a {
