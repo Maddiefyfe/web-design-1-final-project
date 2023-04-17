@@ -37,4 +37,10 @@ h1 {
 ul {
     display: flex;
     flex-direction: row;
+    align-items: flex-end;
+    align-content: space-between;
+}
+
+a {
+    color: #fafafa;
 }
