@@ -40,15 +40,13 @@ ul {
     list-style-type: none;
 }
 
-li {
-    text-decoration: #0E1215;
-}
 a {
     color: #fafafa;
 }
 
-a:link, a:visited {
-    background-color: #0E1215;
-    color: white;
-    text-decoration: none;
-  }
+.about {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+}
