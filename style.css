@@ -23,12 +23,11 @@ header {
 }
 
 .first {
-    display: flex;
-    width: 90%;
-    align-items: center;
-    justify-content: center;
-
+    text-align: center;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
 }
+
 h1 {
     color: #fafafa
 }
