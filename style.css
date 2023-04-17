@@ -22,11 +22,19 @@ header {
 }
 
 .first {
+    width: 90%;
     text-align: center;
-    padding-left: 1.5em;
-    padding-right: 1.5em;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 h1 {
     color: #fafafa
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
 }
