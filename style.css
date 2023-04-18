@@ -49,20 +49,19 @@ a {
 }
 
 .container {
-    display: flex;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: 80% 20%;
     align-items: center;
 
 }
 
 .text {
-    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 
 }
 
-.imageone {
-    width: 30%;
-}
 
 
 .center {
