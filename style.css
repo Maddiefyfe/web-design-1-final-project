@@ -130,6 +130,12 @@ a:hover, a:focus {
     padding: 20px 20px 20px 20px;
 }
 
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 300px 300px;
+
+}
+
 .social {
     display: flex;
     justify-content: center;
