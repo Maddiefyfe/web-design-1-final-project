@@ -52,13 +52,15 @@ a {
 .text {
     display: flex;
     flex: 1;
-    flex-direction: row;
-    align-items: flex-start;
-
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .imageone {
     flex: 2;
+}
 
-
+.center {
+    text-align: center;
 }
