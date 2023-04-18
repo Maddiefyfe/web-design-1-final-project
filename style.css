@@ -140,6 +140,10 @@ a:hover, a:focus {
 .logo {
     width: 4%;
 }
+
+#contact-me {
+    padding: 70px 70px 70px 70px
+}
 footer {
     background-color: #0E1215;
     color: #fafafa;
