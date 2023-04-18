@@ -130,6 +130,12 @@ a:hover, a:focus {
     padding: 20px 20px 20px 20px;
 }
 
+.social {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 footer {
     background-color: #0E1215;
     color: #fafafa;
