@@ -24,7 +24,6 @@ header {
 
 .first {
     background-color: #0E1215;
-    text-align: center;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
@@ -58,8 +57,7 @@ a {
     display: flex;
     flex: 1;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+
 }
 
 .imageone {
