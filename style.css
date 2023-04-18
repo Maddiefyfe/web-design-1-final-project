@@ -22,10 +22,6 @@ header {
     padding: 5px 5px 5px 5px;
 }
 
-h1 {
-    text-align: left;
-}
-
 .first {
     background-color: #0E1215;
     text-align: center;
@@ -98,7 +94,7 @@ a {
     background-color: #0E1215;
     color: white;
     text-decoration: none;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 
 .center2 {
