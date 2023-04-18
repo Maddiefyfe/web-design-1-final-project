@@ -44,7 +44,7 @@ a {
     color: #fafafa;
 }
 
-.about {
+.container {
     display: flex;
 
 }
@@ -63,4 +63,9 @@ a {
 
 .center {
     text-align: center;
+}
+
+.services {
+    display: grid;
+
 }
