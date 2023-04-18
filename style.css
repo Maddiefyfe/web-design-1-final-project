@@ -99,6 +99,8 @@ a:hover, a:focus {
 
 .center2 {
     text-align: center;
+    padding-top: 100px;
+    padding-bottom: 0;
 }
 
 .wrapper {
