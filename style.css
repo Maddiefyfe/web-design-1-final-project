@@ -50,15 +50,12 @@ a {
 
 .container {
     display: flex;
-    justify-content: center;
+    align-items: center;
 
 }
 
-.text {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+.text-container {
+    margin: 30px;
 
 }
 
