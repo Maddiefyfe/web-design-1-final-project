@@ -52,10 +52,13 @@ a {
 .text {
     display: flex;
     flex: 1;
+    flex-direction: row;
     align-items: flex-start;
+
 }
 
-.image {
+.imageone {
     flex: 2;
+
 
 }
