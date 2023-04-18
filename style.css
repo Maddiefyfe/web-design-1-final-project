@@ -23,6 +23,7 @@ header {
 }
 
 .first {
+    display: flex;
     background-color: #0E1215;
     padding-left: 20px;
     padding-right: 20px;
@@ -35,7 +36,7 @@ header {
 }
 
 .first img {
-    width: 85%;
+    width: 90%;
     justify-content: center;
     justify-self: center;
     justify-items: center;
