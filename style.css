@@ -50,20 +50,18 @@ a {
 
 .container {
     display: flex;
-
-}
-
-.text {
-    display: flex;
-    flex: 1;
-    flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
 
 }
 
+.text {
+    width: 70%;
+
+}
+
 .imageone {
-    flex: 2;
+    width: 30%;
 }
 
 
